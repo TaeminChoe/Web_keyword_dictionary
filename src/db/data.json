@@ -1,0 +1,34 @@
+{
+	"dictionary": [
+		{
+			"name": "MPA",
+			"engName": "Multiple Page Application",
+			"korName": "멀티 페이지 앱",
+			"id": "xYlK_m0"
+		},
+		{
+			"name": "UI",
+			"engName": "User Interface",
+			"korName": "유저 인터페이스",
+			"id": "XUiSEnh"
+		},
+		{
+			"name": "SSR",
+			"engName": "Server Side Rendering",
+			"korName": "서버 사이드 렌더링",
+			"id": "ZVZ55vF"
+		},
+		{
+			"name": "CSR",
+			"engName": "Client Side Rendering",
+			"korName": "클라이언트 사이드 렌더링",
+			"id": "JXF7C4u"
+		},
+		{
+			"name": "1",
+			"engName": "2",
+			"korName": "3",
+			"id": "_rKFyP_"
+		}
+	]
+}
